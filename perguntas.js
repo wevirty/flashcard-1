@@ -1,29 +1,59 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Título 1',
+    'Pergunta 1',
+    'Resposta 1'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Título 2',
+    'Pergunta 2',
+    'Resposta 2'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Título 3',
+    'Pergunta 3',
+    'Resposta 3'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Título 4',
+    'Pergunta 4',
+    'Resposta 4'
 )
 
 criaCartao(
-    'Nova Pergunta',
-    'Isso é um teste?',
-    'SIM'
+    'Título 5',
+    'Pergunta 5',
+    'Resposta 5'
+)
+
+criaCartao(
+    'Título 6',
+    'Pergunta 6',
+    'Resposta 6'
+)
+
+criaCartao(
+    'Título 7',
+    'Pergunta 7',
+    'Resposta 7'
+)
+
+criaCartao(
+    'Título 8',
+    'Pergunta 8',
+    'Resposta 8'
+)
+
+criaCartao(
+    'Título 9',
+    'Pergunta 9',
+    'Resposta 9'
+)
+
+criaCartao(
+    'Título 10',
+    'Pergunta 10',
+    'Resposta 10'
 )
