@@ -1,59 +1,59 @@
 criaCartao(
-    'Título 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'ed fisica',
+    'corida fais bem por coraçao',
+    'sim'
 )
 
 criaCartao(
-    'Título 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'matematica',
+    '3-1',
+    '2'
 )
 
 criaCartao(
-    'Título 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'biologia',
+    'animal que coloca ovo',
+    'ovivoro'
 )
 
 criaCartao(
-    'Título 4',
-    'Pergunta 4',
-    'Resposta 4'
+    'arte',
+    'como faze pra pinta um ovo da pascoa',
+    'con' tinta e pisel
 )
 
 criaCartao(
-    'Título 5',
-    'Pergunta 5',
-    'Resposta 5'
+    'pergunta',
+    'oque o boi falou por outro boi ',
+    'mur'
 )
 
 criaCartao(
-    'Título 6',
-    'Pergunta 6',
-    'Resposta 6'
+    'matematica',
+    'quanto e 10-5',
+    '5'
 )
 
 criaCartao(
-    'Título 7',
-    'Pergunta 7',
-    'Resposta 7'
+    'perguta',
+    'oque a rua falou pra outra rua ',
+    'te vejo la na esquina'
 )
 
 criaCartao(
-    'Título 8',
-    'Pergunta 8',
-    'Resposta 8'
+    'perguta',
+    'oque o peixe falou por outro peixe',
+    'nada'
 )
 
 criaCartao(
-    'Título 9',
-    'Pergunta 9',
-    'Resposta 9'
+    'matematica',
+    'qunto e 5-2',
+    '3'
 )
 
 criaCartao(
-    'Título 10',
-    'Pergunta 10',
-    'Resposta 10'
+    'matematica',
+    'quanto e 10-6',
+    '4'
 )
